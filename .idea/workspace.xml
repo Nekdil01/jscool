@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b716cdb3-0f7d-4daf-8b3e-d3f9f323908a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/sbt/jscool/homework2/Homework2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sbt/jscool/homework2/MyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sbt/jscool/homework2/MyStringCharComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sbt/jscool/homework2/MyStringLengthComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sbt/jscool/homework2/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sbt/jscool/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sbt/jscool/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -114,14 +108,22 @@
       <option name="project" value="LOCAL" />
       <updated>1583220472999</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework 2: task1-4">
+      <created>1583429734393</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583429734393</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
     <MESSAGE value="added gitignore" />
     <MESSAGE value="deleted gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted gitignore" />
+    <MESSAGE value="Homework 2: task1-4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2: task1-4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Inspections" timestamp="1583220639636">
@@ -144,11 +146,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="756" y="425" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1583220703459" />
-    <state x="437" y="23" key="CommitChangelistDialog2" timestamp="1583429721317">
+    <state x="437" y="23" key="CommitChangelistDialog2" timestamp="1583429734080">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="614" y="116" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1583220472449" />
-    <state x="437" y="23" key="CommitChangelistDialog2/0.23.1366.745@0.23.1366.745" timestamp="1583429721317" />
+    <state x="437" y="23" key="CommitChangelistDialog2/0.23.1366.745@0.23.1366.745" timestamp="1583429734080" />
     <state width="1302" height="224" key="GridCell.Tab.0.bottom" timestamp="1583429721381">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
@@ -189,10 +191,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1583224207956" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1583220488827">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="192" y="23" key="SettingsEditor" timestamp="1584026188153">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584026188153" />
+    <state x="393" y="204" key="Vcs.Push.Dialog.v2" timestamp="1583429818299">
+      <screen x="0" y="23" width="1366" height="745" />
     </state>
     <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1583220488827" />
+    <state x="393" y="204" key="Vcs.Push.Dialog.v2/0.23.1366.745@0.23.1366.745" timestamp="1583429818299" />
     <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583220448401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -203,5 +210,17 @@
     <state x="466" y="269" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1583420849293" />
     <state x="655" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1583219899464" />
     <state x="466" y="269" key="com.intellij.ide.util.TipDialog/0.23.1366.745@0.23.1366.745" timestamp="1583327651115" />
+    <state x="397" y="182" key="git4idea.merge.GitPullDialog" timestamp="1584026238757">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="397" y="182" key="git4idea.merge.GitPullDialog/0.0.1366.768@0.0.1366.768" timestamp="1584026238757" />
+    <state x="472" y="291" key="git4idea.ui.GitStashDialog" timestamp="1584026269382">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="472" y="291" key="git4idea.ui.GitStashDialog/0.0.1366.768@0.0.1366.768" timestamp="1584026269382" />
+    <state x="348" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1583429772224">
+      <screen x="0" y="23" width="1366" height="745" />
+    </state>
+    <state x="348" y="92" width="670" height="676" key="search.everywhere.popup/0.23.1366.745@0.23.1366.745" timestamp="1583429772224" />
   </component>
 </project>
