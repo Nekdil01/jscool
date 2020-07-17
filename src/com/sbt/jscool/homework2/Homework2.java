@@ -27,7 +27,9 @@ public class Homework2 {
         }
         HashSet<String> s = new HashSet<>();
 
-        while (scanner.hasNext()) {
+        while (true) {
+            assert scanner != null;
+            if (!scanner.hasNext()) break;
             s.add(scanner.next());
         }
         System.out.println(s.size());
@@ -43,7 +45,9 @@ public class Homework2 {
 
         HashSet<String> s = new HashSet<>();
 
-        while (scanner.hasNext()) {
+        while (true) {
+            assert scanner != null;
+            if (!scanner.hasNext()) break;
             s.add(scanner.next());
         }
 
@@ -68,7 +72,9 @@ public class Homework2 {
 
         HashMap<String, Integer> uniqueWords = new HashMap<>();
 
-        while (scanner.hasNext()) {
+        while (true) {
+            assert scanner != null;
+            if (!scanner.hasNext()) break;
             String str = scanner.next();
             if (uniqueWords.containsKey(str)) {
                 uniqueWords.put(str, uniqueWords.get(str) + 1);
@@ -90,7 +96,9 @@ public class Homework2 {
 
         ArrayList<String> al = new ArrayList<>();
 
-        while (scanner.hasNext()) {
+        while (true) {
+            assert scanner != null;
+            if (!scanner.hasNext()) break;
             al.add(scanner.next());
         }
 
@@ -130,7 +138,9 @@ public class Homework2 {
             }
         };
 
-        while (scanner.hasNext()) {
+        while (true) {
+            assert scanner != null;
+            if (!scanner.hasNext()) break;
             al.add(scanner.next());
         }
 
@@ -150,7 +160,9 @@ public class Homework2 {
 
         ArrayList<String> al = new ArrayList<>();
 
-        while (scanner.hasNext()) {
+        while (true) {
+            assert scanner != null;
+            if (!scanner.hasNext()) break;
             al.add(scanner.next());
         }
         scanner = new Scanner(System.in);
